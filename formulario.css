@@ -1,0 +1,16 @@
+main{
+width: 5080px;
+margin: 0 auto;
+}
+
+form{
+margin: 30px 4;
+}
+
+form label{
+display: block;
+}
+
+form input{
+  display:block;
+}
